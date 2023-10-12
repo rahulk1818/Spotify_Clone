@@ -15,14 +15,14 @@ Spotify Clone made by only using HTML, CSS, JS. Spotify is a music streaming pla
 
 Log In
 
-![App Screenshot](https://github.com/BasimAhmedKhan/Spotify-Clone/blob/main/Readme%20Resources/login.png)
+![App Screenshot]()
 
 Home
 
-![App Screenshot](https://github.com/BasimAhmedKhan/Spotify-Clone/blob/main/Readme%20Resources/home.png)
+![App Screenshot]()
 
 
 Library
 
-![App Screenshot](https://github.com/BasimAhmedKhan/Spotify-Clone/blob/main/Readme%20Resources/library.png)
+![App Screenshot]()
 
